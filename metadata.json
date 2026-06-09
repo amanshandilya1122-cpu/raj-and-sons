@@ -1,0 +1,6 @@
+{
+  "name": "Raj Water Park",
+  "description": "A luxury, resort-style water park, hotel, restaurant, and banquet destination in Begusarai, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
